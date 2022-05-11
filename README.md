@@ -5,5 +5,5 @@
 </h4>
 
 <p align="center">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=savionok&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=savionok&theme=tokyonight_duo&hide_border=true&background=FFFFFF00">
 </p>
